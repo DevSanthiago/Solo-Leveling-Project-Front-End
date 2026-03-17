@@ -38,7 +38,7 @@ Galeria interativa dos personagens de Solo Leveling, apresentando Sung Jin-Woo e
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/solo-leveling-gallery.git
+git clone https://github.com/DevSanthiago/Solo-Leveling-Project-Front-End.git
 ```
 
 2. Abra o arquivo `index.html` no seu navegador preferido
@@ -87,7 +87,7 @@ Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para d
 - **Desenvolvedor**: [Johnatan dos Santos Reis]  
 - **E-mail:** johnatan.reiiss@icloud.com
 - **LinkedIn:** [linkedin.com/in/johnatan-Reis](https://www.linkedin.com/in/johnatan-dos-santos-reis-945092b7/)
-- **GitHub:** [github.com/JohnReiiss](https://github.com/JohnReiiss)  
+- **GitHub:** [github.com/DevSanthiago](https://github.com/DevSanthiago)  
 
 ---
 
